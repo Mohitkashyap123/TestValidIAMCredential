@@ -1,0 +1,2 @@
+accessKey := "AKIA56M56RPM6Y33QJWY"
+ secretKey := "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"
